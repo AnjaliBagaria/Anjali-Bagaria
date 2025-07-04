@@ -9,5 +9,4 @@
 ![Verilog](https://img.shields.io/badge/Verilog-green)
 ![Vivado](https://img.shields.io/badge/Vivado-yellow)
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
