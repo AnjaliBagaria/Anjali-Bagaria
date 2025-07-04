@@ -24,6 +24,10 @@
 ## Daily Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnjaliBagaria&theme=radical)](https://git.io/streak-stats)
 
+## Profile Visited
+![Visitor Count](https://komarev.com/ghpvc/?username=AnjaliBagaria&color=blue)
+
+
 
 
 
