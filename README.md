@@ -21,6 +21,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliBagaria&layout=compact)
 
+## Daily Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnjaliBagaria&theme=radical)](https://git.io/streak-stats)
+
+
 
 
 
