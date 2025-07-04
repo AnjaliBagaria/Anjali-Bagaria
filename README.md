@@ -9,6 +9,9 @@
 ![Verilog](https://img.shields.io/badge/Verilog-green)
 ![Vivado](https://img.shields.io/badge/Vivado-yellow)
 
+## LeetCode Profile
+![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername)
+
 ## HackerRank Profile
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=HackerRank)](https://www.hackerrank.com/anjalimbagaria)
