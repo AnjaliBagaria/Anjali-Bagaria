@@ -10,7 +10,7 @@
 ![Vivado](https://img.shields.io/badge/Vivado-yellow)
 
 ## LeetCode Profile
-![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AnjaliBagaria)
 
 ## HackerRank Profile
 
