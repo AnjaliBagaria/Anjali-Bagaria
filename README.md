@@ -9,8 +9,7 @@
 ![Verilog](https://img.shields.io/badge/Verilog-green)
 ![Vivado](https://img.shields.io/badge/Vivado-yellow)
 
-## Certifications
-## 🏅 Certifications
+## HackerRank Profile
 - [HackerRank Profile](https://www.hackerrank.com/@anjalimbagaria)
   - Python (Basic)
   - Java (Intermediate)
