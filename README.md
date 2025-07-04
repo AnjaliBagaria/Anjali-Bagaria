@@ -13,7 +13,7 @@
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=HackerRank)](https://www.hackerrank.com/anjalimbagaria)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjalibagaria&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliBagaria&show_icons=true&theme=radical)
 
 
 
