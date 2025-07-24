@@ -21,7 +21,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliBagaria&show_icons=true&theme=radical)
 
 ## Daily Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnjaliBagaria&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnjaliBagaria)](https://git.io/streak-stats)
 
 ## Profile Visited
 ![Visitor Count](https://komarev.com/ghpvc/?username=AnjaliBagaria&color=blue)
