@@ -4,6 +4,7 @@
 - I am currently learning DSA in Java
 
 ## Languages and Tools
+![C](https://img.shields.io/badge/C-red?logo=C)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Verilog](https://img.shields.io/badge/Verilog-green)
