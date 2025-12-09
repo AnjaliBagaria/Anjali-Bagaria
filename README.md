@@ -12,19 +12,7 @@
 ## LeetCode Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AnjaliBagaria)
 
-## HackerRank Profile
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=HackerRank)](https://www.hackerrank.com/anjalimbagaria)
-
-## GitHub Status
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliBagaria&show_icons=true&theme=radical)
-
-## Daily Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnjaliBagaria)](https://git.io/streak-stats)
-
-## Profile Visited
-![Visitor Count](https://komarev.com/ghpvc/?username=AnjaliBagaria&color=blue)
 
 
 
